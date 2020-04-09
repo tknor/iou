@@ -1,9 +1,7 @@
 <script src="https://www.moneybutton.com/moneybutton.js"></script>
 
-<div>Magic button:</div>
-
 <div class="money-button"
-  data-to="430"
+  data-to="21759"
   data-amount="0.0001"
   data-currency="BSV"
   data-label="tip me"
