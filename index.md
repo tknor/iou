@@ -25,16 +25,3 @@
   data-button-data="{}"
   data-type="tip"
 ></div>
-
-<h2>10 bits to NOK prototype</h2>
-
-<div class="money-button"
-  data-to="1EY3nxE6jvCDtFoMp6Q7F6qQ274ebQMG57"
-  data-amount="0.00001"
-  data-currency="BSV"
-  data-label="tip"
-  data-client-identifier="780786aae4ca8731d05c636166894708"
-  data-button-id="1586437095314"
-  data-button-data="{}"
-  data-type="tip"
-></div>
